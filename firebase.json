@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/proyecto-web-taxi",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
